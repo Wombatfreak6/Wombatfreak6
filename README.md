@@ -92,5 +92,5 @@ Hi, I’m <b>Wombatfreak6</b> — driven by curiosity, I’m a Front-End Develop
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wombatfreak6&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/Wombatfreak6)
 
 <h1 align="center">
-  <img src="https://github.com/Wombatfreak6/Wombatfreak6/blob/output/github-snake.svg" alt="GitHub Snake Animation" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/Wombatfreak6/Wombatfreak6/output/github-snake.svg" alt="GitHub Snake Animation" style="max-width: 100%;">
 </h1>
