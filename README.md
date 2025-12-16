@@ -1,0 +1,95 @@
+<!-- ================= PROFILE BANNER ================= -->
+<h3 align="center">
+  <img src="./wombatfrk.png" width="700" height="400" alt="Wombatfreak6 Profile Banner"/>
+</h3>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=600&lines=Front+End+Developer+%7C+Tech+Problem+Solver+%F0%9F%A4%94" alt="Typing SVG" />
+  </a>
+</h1>
+
+<h2 align="center">
+  🤖 | ⚡ | 🎯 | 👨‍💻 | 🧠
+</h2>
+
+<img src="https://raw.githubusercontent.com/AryanVBW/AryanVBW/refs/heads/main/line.gif"/>
+
+---
+
+# 👋 About Me
+
+<h3>
+Hi, I’m <b>Wombatfreak6</b> — driven by curiosity, I’m a Front-End Developer and AI enthusiast who builds scalable solutions and explores innovative tech to create real-world impact. I enjoy solving problems, experimenting with new tools, and continuously improving my craft.
+</h3>
+
+---
+
+# 💻 My favorite tools and technologies
+
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git"/>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML"/>
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS"/>
+      <br>CSS
+    </td>
+  </tr>
+</table>
+</div>
+
+<br><br>
+
+<p align="center">
+  <a href="https://www.holopin.io/@wombatfreak6" target="_blank">
+    <img src="https://holopin.me/wombatfreak6" alt="Holopin badge board" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">
+  <b>Let’s build something amazing together!</b>
+</h2>
+
+<p align="center">
+  <a href="https://github.com/Wombatfreak6">
+    <img height="150px" src="https://beautiful-github-homepage.vercel.app/api?username=Wombatfreak6&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/Wombatfreak6">
+    <img height="150px" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Wombatfreak6&layout=compact&theme=gotham&count_private=true" />
+  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wombatfreak6" alt="GitHub Streak" />
+</p>
+
+---
+
+<div align="center">
+  <a href="https://github.com/Wombatfreak6" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub"/>
+  </a>
+</div>
+
+---
+
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wombatfreak6&bg_color=000000&color=53f547&line=65f207&point=2c42ed&area=true&hide_border=true)](https://github.com/Wombatfreak6)
+
+<h1 align="center">
+  <img src="https://github.com/Wombatfreak6/Wombatfreak6/blob/output/github-snake.svg" alt="GitHub Snake Animation" style="max-width: 100%;">
+</h1>
