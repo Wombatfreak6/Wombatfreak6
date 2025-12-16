@@ -1,7 +1,8 @@
 <!-- ================= PROFILE BANNER ================= -->
 <h3 align="center">
-  <img src="./wombatfrk.png" width="700" height="400" alt="Wombatfreak6 Profile Banner"/>
+  <img src="wombatfrk.png" width="700" height="400" alt="Profile Banner"/>
 </h3>
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -80,11 +81,11 @@ Hi, I’m <b>Wombatfreak6</b> — driven by curiosity, I’m a Front-End Develop
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/Wombatfreak6" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub"/>
   </a>
-</div>
+</div> -->
 
 ---
 
