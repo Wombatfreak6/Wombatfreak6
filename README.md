@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=0A84FF&center=true&width=650&lines=Building+clean+systems.;Writing+code+that+ships.;Scaling+ideas+into+products." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=0A84FF&center=true&width=650&lines=Learning+systems+that+scale.;Engineering+clean+interfaces.;Turning+ideas+into+structure." />
 </p>
 
 ---
