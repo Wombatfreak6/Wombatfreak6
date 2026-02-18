@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=0A84FF&center=true&width=600&lines=Building+clean+systems.;Writing+code+that+ships.;Scaling+ideas+into+products." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=0A84FF&center=true&width=650&lines=Building+clean+systems.;Writing+code+that+ships.;Scaling+ideas+into+products." />
 </p>
 
 ---
@@ -31,6 +31,16 @@ Focused on engineering, design, and execution.
 
 ---
 
+### Hacktoberfest / Badges
+
+<p align="center">
+  <a href="https://www.holopin.io/@wombatfreak6" target="_blank">
+    <img src="https://holopin.me/wombatfreak6" alt="Holopin board" />
+  </a>
+</p>
+
+---
+
 ### GitHub
 
 <p align="center">
@@ -46,6 +56,14 @@ Focused on engineering, design, and execution.
 </p>
 
 ---
+
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wombatfreak6&bg_color=0d1117&color=0A84FF&line=0A84FF&point=ffffff&area=true&hide_border=true)](https://github.com/Wombatfreak6)
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Wombatfreak6/Wombatfreak6/output/github-snake.svg" alt="snake animation" />
+</p>
 
 <p align="center">
   <sub>Silence is underrated. So is clean code.</sub>
