@@ -18,8 +18,10 @@
 
 ### About
 
-I build clean interfaces, scalable systems, and projects that actually ship.  
-Focused on engineering, design, and execution.
+I design clean interfaces and scalable systems.  
+Focused on precision, structure, and execution.  
+Always open to learning, new ideas, and new experiences.
+
 
 ---
 
