@@ -28,7 +28,7 @@ Always open to learning, new ideas, and new experiences.
 ### Toolchain
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,js,html,css,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,js,html,css,vscode,react,githubactions" />
 </p>
 
 ---
